@@ -60,6 +60,6 @@ In the new file you created, add the following line.
 #### Initialize the project
 `npm start`
 
-After the script runs, you should be able to lead your project from you Android Virtual Device.
+After the script runs, you should be able to start your project from you Android Virtual Device.
 
 ###### Be excellent!
