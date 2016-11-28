@@ -12,7 +12,7 @@ This is the codebase for said project, and will be improved over time.
 * react-native v0.38.0
 * Android tools ADB
 
-###### Additional NPM Packages
+#### Additional NPM Packages
 _beyond basic project packages and dependencies_
 * [react-native-extended-stylesheet](https://www.npmjs.com/package/react-native-extended-stylesheet)  
 * [react-native-button](https://www.npmjs.com/package/react-native-button)
@@ -46,8 +46,11 @@ This short guide assumes you have Android Studio setup, a work virtual device, a
 `cd reactNative_eng_ger_translate`
 
 You will need to create a local.properties file in the ./android directory, to let the application know where to find the Android SDK.
+
 `touch local.properties`
+
 In the new file you created, add the following line.
+
 `sdk.dir = /_path_/_to your_/Android/Sdk`
 
 
