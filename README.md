@@ -34,7 +34,7 @@ Currently this application is only running on Android, anyone is free to create 
 modifying the _index.ios.js_ file.
 
 #### Make a directory for your project and navigate into it.
-> 'mkdir project && cd project'
+> `mkdir project && cd project`
 
 #### Clone the project
-> 'git clone <https://github.com/pastranastevenaz/reactNative_eng_ger_translate.git>'
+> `git clone https://github.com/pastranastevenaz/reactNative_eng_ger_translate.git`
