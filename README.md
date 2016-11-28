@@ -21,10 +21,10 @@ As with most projects, this can still use some work.
 I would like to continue to develop this a bit and add the
 following to the projects
 
-* A navigation drawer or other way to navigate to different options
-* German to English translation
-* Improve the color Scheme
-* If possible, implement Google's voice API
+-[] A navigation drawer or other way to navigate to different options
+-[] German to English translation
+-[] Improve the color Scheme
+-[] If possible, implement Google's voice API
 
 ### Installing Locally
 Feel free to clone this Repo and modify as desired.
@@ -34,7 +34,7 @@ Currently this application is only running on Android, anyone is free to create 
 modifying the _index.ios.js_ file.
 
 #### Make a directory for your project and navigate into it.
-> mkdir project && cd project
+> 'mkdir project && cd project'
 
 #### Clone the project
-> git clone <https://github.com/pastranastevenaz/reactNative_eng_ger_translate.git>
+> 'git clone <https://github.com/pastranastevenaz/reactNative_eng_ger_translate.git>'
